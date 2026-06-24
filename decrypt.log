@@ -1,0 +1,33 @@
+{"timestamp": "2026-05-09 16:05:42", "level": "INFO", "message": "程序启动"}
+{"timestamp": "2026-05-09 16:06:02", "level": "INFO", "message": "连接 EWS: panwu@ramaxel.com"}
+{"timestamp": "2026-05-09 16:06:02", "level": "API_REQUEST", "message": "connect -> https://email.ramaxel.com/EWS/Exchange.asmx", "action": "connect", "url": "https://email.ramaxel.com/EWS/Exchange.asmx", "status": 200, "response_time_ms": 1.77}
+{"timestamp": "2026-05-09 16:06:03", "level": "SUCCESS", "message": "连接成功! 收件箱: 4167 封, 未读: 5 封"}
+{"timestamp": "2026-05-09 16:06:07", "level": "INFO", "message": "程序完成 - 成功: 0, 失败: 0"}
+{"timestamp": "2026-05-09 16:06:56", "level": "INFO", "message": "程序启动"}
+{"timestamp": "2026-05-09 16:06:57", "level": "INFO", "message": "连接 EWS: panwu@ramaxel.com"}
+{"timestamp": "2026-05-09 16:06:57", "level": "API_REQUEST", "message": "connect -> https://email.ramaxel.com/EWS/Exchange.asmx", "action": "connect", "url": "https://email.ramaxel.com/EWS/Exchange.asmx", "status": 200, "response_time_ms": 2.16}
+{"timestamp": "2026-05-09 16:06:57", "level": "SUCCESS", "message": "连接成功! 收件箱: 4167 封, 未读: 5 封"}
+{"timestamp": "2026-05-09 16:07:01", "level": "INFO", "message": "程序完成 - 成功: 0, 失败: 0"}
+{"timestamp": "2026-05-09 16:07:19", "level": "INFO", "message": "程序启动"}
+{"timestamp": "2026-05-09 16:07:19", "level": "INFO", "message": "连接 EWS: panwu@ramaxel.com"}
+{"timestamp": "2026-05-09 16:07:19", "level": "API_REQUEST", "message": "connect -> https://email.ramaxel.com/EWS/Exchange.asmx", "action": "connect", "url": "https://email.ramaxel.com/EWS/Exchange.asmx", "status": 200, "response_time_ms": 1.33}
+{"timestamp": "2026-05-09 16:07:20", "level": "SUCCESS", "message": "连接成功! 收件箱: 4167 封, 未读: 5 封"}
+{"timestamp": "2026-05-09 16:07:24", "level": "INFO", "message": "程序完成 - 成功: 0, 失败: 0"}
+{"timestamp": "2026-05-09 16:08:08", "level": "INFO", "message": "程序启动"}
+{"timestamp": "2026-05-09 16:08:08", "level": "INFO", "message": "连接 EWS: panwu@ramaxel.com"}
+{"timestamp": "2026-05-09 16:08:08", "level": "API_REQUEST", "message": "connect -> https://email.ramaxel.com/EWS/Exchange.asmx", "action": "connect", "url": "https://email.ramaxel.com/EWS/Exchange.asmx", "status": 200, "response_time_ms": 1.77}
+{"timestamp": "2026-05-09 16:08:09", "level": "SUCCESS", "message": "连接成功! 收件箱: 4168 封, 未读: 6 封"}
+{"timestamp": "2026-05-09 16:08:11", "level": "EMAIL_ACTION", "message": "decrypt_start: 111", "action": "decrypt_start", "subject": "111", "attachment": "加密样本.txt", "result": "pending"}
+{"timestamp": "2026-05-09 16:08:12", "level": "API_REQUEST", "message": "decrypt -> https://api-soc.ramaxel.com/api/openapi/file/decrypt", "action": "decrypt", "url": "https://api-soc.ramaxel.com/api/openapi/file/decrypt", "status": 200, "response_time_ms": 310.87}
+{"timestamp": "2026-05-09 16:08:12", "level": "SUCCESS", "message": "附件替换成功", "subject": "111", "attachment": "加密样本.txt", "new_name": "加密样本.txt"}
+{"timestamp": "2026-05-09 16:08:12", "level": "EMAIL_ACTION", "message": "decrypt_replace: 111", "action": "decrypt_replace", "subject": "111", "attachment": "加密样本.txt", "result": "success"}
+{"timestamp": "2026-05-09 16:08:12", "level": "INFO", "message": "程序完成 - 成功: 1, 失败: 0"}
+{"timestamp": "2026-05-09 16:10:24", "level": "INFO", "message": "程序启动"}
+{"timestamp": "2026-05-09 16:10:24", "level": "INFO", "message": "连接 EWS: panwu@ramaxel.com"}
+{"timestamp": "2026-05-09 16:10:24", "level": "API_REQUEST", "message": "connect -> https://email.ramaxel.com/EWS/Exchange.asmx", "action": "connect", "url": "https://email.ramaxel.com/EWS/Exchange.asmx", "status": 200, "response_time_ms": 2.48}
+{"timestamp": "2026-05-09 16:10:25", "level": "SUCCESS", "message": "连接成功! 收件箱: 4169 封, 未读: 7 封"}
+{"timestamp": "2026-05-09 16:10:33", "level": "EMAIL_ACTION", "message": "decrypt_start: 22", "action": "decrypt_start", "subject": "22", "attachment": "加密样本1.txt", "result": "pending"}
+{"timestamp": "2026-05-09 16:10:34", "level": "API_REQUEST", "message": "decrypt -> https://api-soc.ramaxel.com/api/openapi/file/decrypt", "action": "decrypt", "url": "https://api-soc.ramaxel.com/api/openapi/file/decrypt", "status": 200, "response_time_ms": 1384.31}
+{"timestamp": "2026-05-09 16:10:35", "level": "SUCCESS", "message": "附件替换成功", "subject": "22", "attachment": "加密样本1.txt", "new_name": "加密样本1.txt"}
+{"timestamp": "2026-05-09 16:10:35", "level": "EMAIL_ACTION", "message": "decrypt_replace: 22", "action": "decrypt_replace", "subject": "22", "attachment": "加密样本1.txt", "result": "success"}
+{"timestamp": "2026-05-09 16:10:35", "level": "INFO", "message": "程序完成 - 成功: 1, 失败: 0"}
